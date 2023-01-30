@@ -37,9 +37,11 @@
 }
 
 .nav-links:hover{
-    background-color: #6d76f7;
+    background-color:  #2c316d;
     border-radius:4px;
     transition: all 0.2s ease-out;
+    text-decoration:none;
+    text-decoration-color: #fff;
 }
 
 .fa-bars{
@@ -93,8 +95,10 @@
     }
 
     .nav-links:hover{
-        background-color: #9198e5;
+        background-color: #2c316d;
         border-radius:0;
+        text-decoration:none;
+        text-decoration-color: #fff;
     }
     
     .navbar-logo{
