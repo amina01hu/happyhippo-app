@@ -1,11 +1,11 @@
-import React, {useEffect, useState} from 'react'
+import React  from 'react'
 
-function Shop(){
+function Post(){
     return(
         <div>
-            <h1>I am shop</h1>
+            <h1>I am post page</h1>
         </div>
     )
 }
 
-export default Shop;
+export default Post;
